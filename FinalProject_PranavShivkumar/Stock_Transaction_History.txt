@@ -1,0 +1,5 @@
+Event	Company Symbol	   Number	Price Per Share	Total Value	     Time	
+Buy	GOOG		10		$568.964		$5689.64		15:17:27
+Buy	MSFT		100		$30.62		$3062		15:17:56
+Sell	GOOG		5		$569.964		$2844.82		15:18:30
+Sell	MSFT		100		$29.62		$3062		15:18:41

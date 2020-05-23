@@ -1,0 +1,3 @@
+﻿  booklist_class.cpp
+C:\Users\prana\source\repos\hw6\booklist_class.cpp(126): warning C4715: 'booklist::bin': not all control paths return a value
+  hw6.vcxproj -> C:\Users\prana\source\repos\hw6\Debug\hw6.exe

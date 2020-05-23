@@ -1,0 +1,3 @@
+﻿  polynomial_pranav.cpp
+C:\Users\prana\source\repos\hw7\polynomial_pranav.cpp(47): warning C4715: 'polynomial::isEmpty': not all control paths return a value
+  hw7.vcxproj -> C:\Users\prana\source\repos\hw7\Debug\hw7.exe

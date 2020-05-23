@@ -1,0 +1,2 @@
+Company Symbol	Number	Price Per Share	Total Value	
+GOOG		5	$569.964		2849.82

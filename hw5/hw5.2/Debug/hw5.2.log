@@ -1,0 +1,5 @@
+﻿  puzzle.cpp
+C:\Users\prana\source\repos\hw5.2\puzzle.cpp(59,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw5.2\puzzle.cpp(87,12): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw5.2\puzzle.cpp(100,9): warning C4101:  'i': unreferenced local variable
+  hw5.2.vcxproj -> C:\Users\prana\source\repos\hw5.2\Debug\hw5.2.exe

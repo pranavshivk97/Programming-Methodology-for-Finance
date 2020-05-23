@@ -1,0 +1,21 @@
+﻿  Main_Pranavcpp.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xutility(1762,22): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xutility(1762,22): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xutility(1762,22): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xutility(1762,22): warning C4244:             _Ty=int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xutility(1762,22): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xutility(1799): message : see reference to function template instantiation '_OutIt std::_Copy_unchecked<double*,_Iter>(_InIt,_InIt,_OutIt)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xutility(1799): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xutility(1799): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xutility(1799): message :             _OutIt=std::ostream_iterator<int,char,std::char_traits<char>>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xutility(1799): message :             _Iter=std::ostream_iterator<int,char,std::char_traits<char>>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xutility(1799): message :             _InIt=double *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xutility(1799): message :         ]
+C:\Users\prana\source\repos\inclass7\Main_Pranavcpp.cpp(65): message : see reference to function template instantiation '_OutIt std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::ostream_iterator<int,char,std::char_traits<char>>>(_InIt,_InIt,_OutIt)' being compiled
+C:\Users\prana\source\repos\inclass7\Main_Pranavcpp.cpp(65): message :         with
+C:\Users\prana\source\repos\inclass7\Main_Pranavcpp.cpp(65): message :         [
+C:\Users\prana\source\repos\inclass7\Main_Pranavcpp.cpp(65): message :             _OutIt=std::ostream_iterator<int,char,std::char_traits<char>>,
+C:\Users\prana\source\repos\inclass7\Main_Pranavcpp.cpp(65): message :             _Ty=double,
+C:\Users\prana\source\repos\inclass7\Main_Pranavcpp.cpp(65): message :             _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>
+C:\Users\prana\source\repos\inclass7\Main_Pranavcpp.cpp(65): message :         ]
+  inclass7.vcxproj -> C:\Users\prana\source\repos\inclass7\Debug\inclass7.exe

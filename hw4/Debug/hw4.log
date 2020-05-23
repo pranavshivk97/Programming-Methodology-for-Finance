@@ -1,0 +1,3 @@
+﻿  booklist.cpp
+C:\Users\prana\source\repos\hw4\booklist.cpp(128): warning C4715: 'bin': not all control paths return a value
+  hw4.vcxproj -> C:\Users\prana\source\repos\hw4\Debug\hw4.exe

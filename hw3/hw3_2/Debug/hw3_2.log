@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\prana\source\repos\hw3_2\Source.cpp(25,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw3_2\Source.cpp(28,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw3_2\Source.cpp(61,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw3_2\Source.cpp(63,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw3_2\Source.cpp(85,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw3_2\Source.cpp(87,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw3_2\Source.cpp(108,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw3_2\Source.cpp(109,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw3_2\Source.cpp(116,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw3_2\Source.cpp(118,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw3_2\Source.cpp(120,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw3_2\Source.cpp(153,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw3_2\Source.cpp(154,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw3_2\Source.cpp(175,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\source\repos\hw3_2\Source.cpp(177,18): warning C4018: '<': signed/unsigned mismatch
+  hw3_2.vcxproj -> C:\Users\prana\source\repos\hw3_2\Debug\hw3_2.exe
